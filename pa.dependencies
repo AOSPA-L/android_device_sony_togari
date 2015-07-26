@@ -1,9 +1,9 @@
 [
   {
     "remote":      "github",
-    "repository":  "SaatvikShukla/android_kernel_sony_msm8974",
+    "repository":  "AOSPA-L/android_kernel_sony_msm8974",
     "target_path": "kernel/sony/msm8974",
-    "revision":    "master"
+    "revision":    "lollipop-mr1"
   },
   {
     "remote":      "github",
